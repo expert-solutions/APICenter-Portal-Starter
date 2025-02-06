@@ -1,0 +1,11 @@
+{
+  "dataApiHostName": "apic-ontw-integration-01.data.westeurope.azure-apicenter.ms/workspaces/default",
+  "title": "CZ -  API portal",
+  "authentication": {
+      "clientId": "716ba4e8-7414-4b0f-bad1-a3d4b0759e16",
+      "tenantId": "9ec2cac9-3602-4bc5-87d2-9dffd83927bc",
+      "scopes": ["https://azure-apicenter.net/user_impersonation"],
+      "authority": "https://login.microsoftonline.com/"
+  },
+  "scopingFilter": ""
+}
